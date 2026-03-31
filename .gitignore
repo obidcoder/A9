@@ -1,0 +1,11 @@
+# Build files
+build/
+
+# Executables
+*.exe
+
+# Other stuff you don’t submit
+src/
+include/array/
+CMakeLists.txt
+README.md
